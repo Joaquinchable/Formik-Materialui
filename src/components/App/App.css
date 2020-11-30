@@ -1,0 +1,13 @@
+.App{
+
+    display: flex;
+    justify-content: center;
+    background: whitesmoke;
+    border-radius: 10px;
+    width: 500px;
+    padding: 100px;
+    color: black;
+    flex-direction: column;
+
+
+}
